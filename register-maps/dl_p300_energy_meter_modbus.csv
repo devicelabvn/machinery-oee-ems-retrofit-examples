@@ -1,0 +1,13 @@
+device_model,register_address,function_code,signal_code,parameter_name,data_type,unit,accuracy_class
+DL-P300,30001,04,Ua,Phase_A_Voltage,Float32_ABCD,V,0.5S
+DL-P300,30003,04,Ub,Phase_B_Voltage,Float32_ABCD,V,0.5S
+DL-P300,30005,04,Uc,Phase_C_Voltage,Float32_ABCD,V,0.5S
+DL-P300,30013,04,Ia,Phase_A_Current,Float32_ABCD,A,0.5S
+DL-P300,30015,04,Ib,Phase_B_Current,Float32_ABCD,A,0.5S
+DL-P300,30017,04,Ic,Phase_C_Current,Float32_ABCD,A,0.5S
+DL-P300,30019,04,P_Total,Total_Active_Power,Float32_ABCD,kW,0.5S
+DL-P300,30021,04,Q_Total,Total_Reactive_Power,Float32_ABCD,kVAR,1.0
+DL-P300,30025,04,PF_Avg,Average_Power_Factor,Float32_ABCD,ratio,0.5S
+DL-P300,30027,04,Freq,Grid_Frequency,Float32_ABCD,Hz,0.2
+DL-P300,30029,04,kWh_Import,Total_Active_Energy_Import,Float32_ABCD,kWh,0.5S
+DL-P300,30041,04,Temp_Busbar,Busbar_Temperature_NTC,Float32_ABCD,degC,1.0

@@ -1,0 +1,7 @@
+controller_model,register_hex,register_dec,function_code,parameter_name,data_type,scale_factor,unit,description
+MAM-860/MAM-880,0x0064,100,03,Discharge_Pressure,UInt16,0.01,MPa,Outlet air pressure (0.75 MPa = 7.5 bar)
+MAM-860/MAM-880,0x0065,101,03,Exhaust_Temperature,Int16,1,degC,Air-end discharge temperature
+MAM-860/MAM-880,0x0066,102,03,Main_Motor_Current,UInt16,0.1,A,Phase A motor current
+MAM-860/MAM-880,0x0068,104,03,Run_Load_Status_Word,UInt16,1,Bitmask,Bit0=Run Bit1=Load Bit4=Fault
+MAM-860/MAM-880,0x006A,106,03,Total_Running_Hours,UInt32,1,Hours,Cumulative motor running hours
+MAM-860/MAM-880,0x006C,108,03,Total_Loaded_Hours,UInt32,1,Hours,Cumulative loaded compression hours

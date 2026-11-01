@@ -1,0 +1,26 @@
+{
+  "device_id": "DL-M400-CNC08",
+  "model": "DeviceLab DL-M400",
+  "product_url": "https://devicelab.vn/san-pham/dl-m400/",
+  "timestamp": "2026-10-17T14:05:00Z",
+  "network": {
+    "rat": "4G_LTE_CAT1",
+    "rssi_dbm": -71,
+    "flash_buffer_pending": 0
+  },
+  "oee_counters": {
+    "machine_state": "RUNNING",
+    "di1_power_on": true,
+    "di2_cycle_active": true,
+    "di3_total_parts_count": 14820,
+    "di4_alarm_active": false,
+    "last_cycle_time_sec": 38.4
+  },
+  "compressor_modbus_mam860": {
+    "discharge_pressure_mpa": 0.76,
+    "exhaust_temp_c": 82,
+    "motor_current_a": 41.5,
+    "total_run_hours": 3842,
+    "total_load_hours": 3190
+  }
+}
