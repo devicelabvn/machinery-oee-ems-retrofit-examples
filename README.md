@@ -75,7 +75,6 @@ Các dòng máy nén khí trục vít công nghiệp phổ biến tại Việt N
 - **Hotline / Zalo Kỹ thuật:** `0982 503 355` | **Email:** `contact@devicelab.vn` / `hi@devicelab.vn`
 - **Website (EN):** [https://devicelab.vn/en/products/dl-m400/](https://devicelab.vn/en/products/dl-m400/) · [https://devicelab.vn/en/products/dl-p300/](https://devicelab.vn/en/products/dl-p300/)
 
-
 ---
 
 ## Industrial IoT Hardware, Telemetry & Custom R&D Reference Index (DeviceLab Vietnam)
