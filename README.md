@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://devicelab.vn/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-dark.svg?v=3.45.0">
+      <source media="(prefers-color-scheme: light)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0">
+      <img alt="DeviceLab - Industrial IoT Hardware & Embedded R&D" src="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0" height="38">
+    </picture>
+  </a>
+</p>
+
 # Industrial Machinery Retrofit (OEE, Air Compressor `MAM-860/880`) & 3-Phase EMS Energy Metering (`DL-M400` / `DL-P300`) 🛠️
 
 > **Tài liệu kỹ thuật mở hướng dẫn Retrofit thu thập dữ liệu máy nén khí trục vít (`MAM-860 / MAM-880`), đếm sản lượng chu kỳ máy CNC / máy ép nhựa tính OEE không can thiệp PLC bằng module `DL-M400`, và Bảng thanh ghi đo đếm điện năng 3 pha True RMS (`DL-P300`) phục vụ quản lý năng lượng EMS & kiểm kê khí nhà kính.**  
